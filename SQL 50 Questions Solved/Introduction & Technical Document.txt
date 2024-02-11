@@ -1,0 +1,8 @@
+---------------------------------------------------------------------
+The document here contains solutions of 50 SQL Interview problems given by Rahul Upadhya (https://www.linkedin.com/in/rahulupadhyabigdata/).
+
+The problem in the document are solved by me on own.
+
+50 SQL problems link :- 
+https://www.youtube.com/watch?v=dSIQ4k8DQRw&list=PLQqwqgd1hizXx3l_ns_42xGvHkv3YjuPq&index=2
+---------------------------------------------------------------------
